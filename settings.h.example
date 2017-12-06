@@ -1,0 +1,7 @@
+#define PIR_DOUT 0
+
+char ssid[] = "";     //  your network SSID (name)
+char pass[] = "";  // your network password
+char mqttUser[] = "";  // Available from the Cayenne device overview
+char mqttPass[] = "";  // Available from the Cayenne device overview
+char mqttID[] = "";  // Available from the Cayenne device overview
